@@ -4,11 +4,26 @@ body{
     font-family: 'Asap', sans-serif;
 }
 
+
 .hero{
-    background-image: url('../img/hero-1.jpg');
-    background-position: center;
+    background-image: url('../img/tiamat.jpg');
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    
+    padding-top: 5rem;
+    position: relative;
+    min-height: 5rem;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+.hero .letras {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    color: white;
+    text-shadow: 3px 3px 4px #444444;
 }
 
 h1{
