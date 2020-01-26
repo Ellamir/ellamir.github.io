@@ -117,31 +117,13 @@ ul{
     margin-left: -2.3em;
 }
 
-ol{
-
-    margin-left:-2em;
-}
-
-ol li{
-
-    margin:2em 0em;
-}
-
-.newsletter{
-
-    background-color:#dc3545;
-
-}
-
-.newsletter h5{
-
-    font-size: 3em;
-}
 
 section h2 {
-    padding-top: 90px;
+    padding-top: 80px;
 }
-
+hr{
+    width="30%"
+}
 section#trabajos{
     background-color: #DC3545;
     color: #FFFFFF;
@@ -180,10 +162,6 @@ section#trabajos .card{
         padding-top:1.5em;
     }
     
-    .newsletter h5{
-
-        font-size:2.5em;
-    }
 
     h6{
         font-size:2em;
@@ -191,8 +169,4 @@ section#trabajos .card{
     }
     
     
-    .tooltip {
-        display: none !important;
-     }
-
 }
