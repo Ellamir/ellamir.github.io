@@ -37,6 +37,7 @@ h1{
 
 h2{
     font-size:3.3em;
+    text-transform: uppercase;
 }
 
 h6{
@@ -72,8 +73,9 @@ article h5{
 }
 
 .blog .carousel-indicators .active {
-background: #DC3545;
+background: #FFFFFF;
 }
+
 
 .navbar-brand {
 
@@ -130,6 +132,17 @@ ol li{
 section h2 {
     padding-top: 90px;
 }
+
+section#trabajos{
+    background-color: #DC3545;
+    color: #FFFFFF;
+}
+
+section#trabajos .card{
+    width: 18rem;
+    color: #000000;
+}
+
 @media only screen (max-width: 480px) {
   
 
