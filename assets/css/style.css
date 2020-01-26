@@ -24,8 +24,8 @@ body{
 
 }
 .hero .letras {
-    padding-top: 5rem;
-    padding-bottom: 10rem;
+    padding-top: 10rem;
+    padding-bottom: 9rem;
     color: white;
     text-shadow: 3px 3px 4px #444444;
 }
@@ -44,13 +44,13 @@ h6{
     font-size:1.5em;
     font-weight: 400;
 }
-
+/*
 article h5{
 
     font-size:1.1em;
     margin: 1em 0em;
 }
-
+*/
 
 .carousel-indicators{
 
