@@ -9,21 +9,32 @@ body{
 }
 
 
+
 .hero{
-    background-image: url('../img/tiamat.jpg');
+     /*background-image: url('../img/tiamat.jpg');
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
-    /*background-attachment: fixed;*/
+    background-size: cover;*/
+   background-attachment: fixed;
     
-    padding-top: 5rem;
+   background-image: url(../img/tiamat.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 700px;
+   margin:0 auto;
+   margin-bottom: 90px;
+   padding-top: 100px;
+
+   /* padding-top: 5rem;
     position: relative;
     min-height: 5rem;
     text-align: right;
-    color: #FFFFFF;
+    color: #FFFFFF;*/
 
 }
 .hero .letras {
+    margin-top: 20vh;
     padding-top: 10rem;
     padding-bottom: 9rem;
     color: white;
